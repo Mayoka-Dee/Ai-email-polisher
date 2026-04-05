@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # 请替换成你新生成的智谱 API Key
-API_KEY = "cf5a021bc9b145788d5cdb573f2e44bf.O2iwbKI7DiGwoATa"
+API_KEY = "f1d79b8756794c268b81df272615b643.uYcRdEk7bN1D4kP6"
 
 URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
 
